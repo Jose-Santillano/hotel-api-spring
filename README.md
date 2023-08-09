@@ -109,7 +109,7 @@ Hay que insertar un JSON para esta petición.
 
 ### DELETE
 ```sh
-http://localhost:8080/hotel-softtek/api/v1/huespedes
+http://localhost:8080/hotel-softtek/api/v1/huespedes/eliminar/1
 ```
 
 ## Para más información
@@ -117,3 +117,5 @@ http://localhost:8080/hotel-softtek/api/v1/huespedes
 Documentación breve en PDF: https://drive.google.com/file/d/1GlqeqsH1d5d3eH7ZG4n1kyx3vyxWl40e/view?usp=drive_link
 
 Material de apoyo: https://www.stackchief.com/blog/One%20To%20Many%20Example%20%7C%20Spring%20Data%20JPA
+
+Añadir SpringDoc: https://springdoc.org/#getting-started
