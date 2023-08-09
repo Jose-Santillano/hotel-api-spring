@@ -1,4 +1,4 @@
-package model;
+package com.codellege.hotel.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
