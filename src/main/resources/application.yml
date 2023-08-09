@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:hotel #URL de la fuente de datos H2.
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update #Hibernate actualizará el esquema de la base de datos para que coincida con la entidad JPA.
+  output:
+    ansi:
+      enabled: always #Uso de ANSI en la consola habilitado.
+  h2:
+    console:
+      enabled: true #Consola H2 habilitada.
